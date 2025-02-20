@@ -1,1 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/si3U9_eK)
+Full Name:
+-Val Derrick James C. Alamillo
+Degree Program:
+-BS Computer Science
+Live website link:
+-https://cmsc-100-2s24-25-c3l.github.io/exer-02-html-and-css-Valentine-real/
+What are your key takeaways for this exercise:
+-I dont have to open a chrome tab and add some html stuff just to debug JS???
